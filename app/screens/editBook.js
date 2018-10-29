@@ -14,7 +14,7 @@ export default class EditBook extends Component {
         return (
             <View style={styles.container}>
                 <Text style={styles.title}>
-                    EditBook #{JSON.stringify(itemId)}
+                    EditBookBooooooooooook #{JSON.stringify(itemId)}
                 </Text>
                 <Button
                     title="Back To books"
