@@ -9,10 +9,10 @@ This system contains two parts
 ## Technologies
 1. Printed circuit Board(PCB)
     * Eagle cad(to design the PCB)
-    * C++ (To programme the microcontroller)
+    * C++ (To programe the microcontroller)
     
 2. Android Application
-    * React Native
+    * React Native 
     
 This repository is about Android application.
 
@@ -28,4 +28,12 @@ Features are
 
 ## Demo
 
-Demo Video[ Here](https://drive.google.com/open?id=1-OE119SbUDRViZNdhZerIEEUaRyvhNer)
+Demo Video is[ Here](https://drive.google.com/open?id=1-OE119SbUDRViZNdhZerIEEUaRyvhNer)
+
+## To-DO List
+
+* Redesign interfaces
+* Integrate home lights and other electronics devices.
+* Add firebase database to log data and controll devices over the internet
+* Integrate Redux.
+
