@@ -26,6 +26,12 @@ Features are
 * Natural mode
 * Get Temperature/Humidity details inside room
 
+## Screen Shots
+<p align="center">
+  <img src="./screenShots/1.png" width="350" title="hover text">
+  <img src="./screenShots/2.png" width="350" alt="accessibility text">
+</p>
+
 ## Demo
 
 Demo Video is[ Here](https://drive.google.com/open?id=1-OE119SbUDRViZNdhZerIEEUaRyvhNer)
