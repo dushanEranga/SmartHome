@@ -28,8 +28,13 @@ Features are
 
 ## Screen Shots
 <p align="center">
-  <img src="./screenShots/1.png" width="350" title="hover text">
-  <img src="./screenShots/2.png" width="350" alt="accessibility text">
+  <img src="./screenShots/1.png" width="200" title="Landing Page">
+  <img src="./screenShots/2.png" width="200" title="Turn ON/OFF/Speeds">
+ <img src="./screenShots/3.png" width="200" title="set timers">
+  <img src="./screenShots/4.png" width="200" title="swing mode ON/OFF">
+ <img src="./screenShots/5.png" width="200" title="rhythm mode ON/OFF">
+  <img src="./screenShots/6.png" width="200" title="">
+ <img src="./screenShots/7.png" width="200" title="hover text">
 </p>
 
 ## Demo
