@@ -42,6 +42,8 @@ Features are
 Demo Video is[ Here](https://drive.google.com/open?id=1-OE119SbUDRViZNdhZerIEEUaRyvhNer)
 * At the time of recording above demo video, the feature of controlling the fan using in built IR transmitter of my mobile device was not completed. I will upload the perticular video soon. The last two screen shots describes this functionality.
 
+When app couldn't find the fan in given getwork And the phone is not having an IR trasnmitter, App shows error messages. Video is [ Here](https://drive.google.com/open?id=1TdNTJEKoeJUrTEQ2Zp6ff-fZP5Pnyq0Z) 
+
 ## To-DO List
 
 * Redesign interfaces
